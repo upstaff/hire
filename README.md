@@ -22,7 +22,7 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire Angular Developers](/hire/angular/)
 - [Hire TypeScript Engineers](/hire/typescript/)
 - [Hire JavaScript Engineers](/hire/javascript/)
-- ...and more!
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire Node.js Developers](/hire/node-js/)
 - [Hire Django Developers](/hire/django/)
 - [Hire GoLang Developers](/hire/golang/)
-- ...and more!
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
@@ -48,6 +48,7 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire iOS Developers](/hire/ios/)
 - [Hire Flutter Developers](/hire/flutter/)
 - [Hire React Native Developers](/hire/react-native/)
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
@@ -56,6 +57,7 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire SecOps Engineers](/hire/security-operations-secops/)
 - [Hire Cloud Architects](/hire/cloud-architect/)
 - [Hire AWS Developers](/hire/amazon-web-services-aws/)
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
@@ -63,12 +65,14 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire Data Scientists](https://upstaff.com/hire/data-scientists/)
 - [Hire ETL Developers](/hire/data-pipelines-etl/)
 - [Hire Business Intelligence Developers](/hire/business-intelligence-bi/)
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
 ## 🕹️ Game Development
 - [Hire Unity Developers](/hire/unity/)
 - [Hire Unreal Engine Developers](/hire/unreal-engine/)
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
@@ -76,6 +80,7 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire Web3 Developers](/hire/web3/)
 - [Hire Solidity Developers](/hire/solidity/)
 - [Hire NFT Marketplace Developers](/hire/nft-marketplace/)
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
@@ -84,7 +89,7 @@ Welcome to **Upstaff** — your go-to solution for hiring skilled developers and
 - [Hire Java Engineers](/hire/java/)
 - [Hire C++ Engineers](https://upstaff.com/hire/c-plus-plus/)
 - [Hire Rust Developers](/hire/rust/)
-- ...and many more!
+- [Many more!](https://upstaff.com/hire/)
 
 ---
 
