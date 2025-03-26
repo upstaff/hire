@@ -1,4 +1,5 @@
 # hire
+https://upstaff.com/wp-content/uploads/2024/03/Subtract-1.svg
 <h1>Hire Developers, Software Engineers and Teams</h1>
 
 <div class="up-mega-menu__wrapper">
