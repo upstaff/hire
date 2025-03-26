@@ -1,5 +1,5 @@
 # hire
-Hire Developers, Software Engineers and Teams
+<h1>Hire Developers, Software Engineers and Teams</h1>
 
 <div class="up-mega-menu__wrapper">
 <div class="up-mega-menu__column">
